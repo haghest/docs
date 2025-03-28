@@ -23,7 +23,7 @@
           },
           {
             "group": "Panduan Teknis",
-            "pages": ["panduan-teknis/render"]
+            "pages": ["panduan-teknis/render","panduan-teknis/addon"]
           },
           {
             "group": "Karakter",
