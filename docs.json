@@ -24,6 +24,10 @@
           {
             "group": "Pengaturan Teknis",
             "pages": ["pengaturan-teknis/render"]
+          },
+          {
+            "group": "Animasi",
+            "pages": ["animasi/anjing","animasi/kambing"]
           }
         ]
       }
