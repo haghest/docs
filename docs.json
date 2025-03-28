@@ -22,11 +22,11 @@
             "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation", "essentials/reusable-snippets"]
           },
           {
-            "group": "Pengaturan Teknis",
-            "pages": ["pengaturan-teknis/render"]
+            "group": "Panduan Teknis",
+            "pages": ["panduan-teknis/render"]
           },
           {
-            "group": "Animasi",
+            "group": "Karakter",
             "pages": ["karakter/anjing","karakter/kambing"]
           }
         ]

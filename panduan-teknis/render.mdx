@@ -1,20 +1,19 @@
 ---
 title: "Pengaturan Render"
 description: "Pengaturan render di Blender"
-icon: "camera"
 ---
 
 <Info>
   **Prerequisite**: Sebelum membuat Aset, pastikan menggunakan Blender versi 3.6 agar dapat dibuka melalui PC INSTIKI
 </Info>
 ## Render menggunakan EEVEE
-Semua animasi dirender menggunakan **EEVEE** agar lebih cepat. Pastikan bukan Cycles.
+Semua animasi dirender menggunakan ```EEVEE``` agar lebih cepat. Pastikan bukan Cycles.
 ## 1080p
 Pastikan sudah menggunakan resolusi ```1920x1080``` pada menu **Output Properties**
 <img style={{ borderRadius: "0.5rem" }} src="/images/resolusi_blender.png" />
 ## Color Management 
-Ubah View Transform dari Filmic ke **Standard** pada halaman Render Properties, scroll kebawah ubah seperti setting pada di gambar. Ini agar tidak perlu melakukan color grade lagi dan mengeluarkan warna kontras kartun pada hasil render.
+Ubah View Transform dari ```Filmic``` ke ```Standard``` pada halaman **Render Properties**, scroll kebawah ubah seperti setting pada di gambar. Ini agar tidak perlu melakukan color grade lagi dan mengeluarkan warna kontras kartun pada hasil render.
 <img style={{ borderRadius: "0.5rem" }} src="/images/color_blender.png" />
 ## Menggunakan .mp4
-Pada menu Output Properties, pastikan pilih dimana file akan disimpan terlebih dahulu. Lalu ubah File format ke **FFmpeg Video** dan buka tab **Encoding** lalu pilih Container **MPEG-4**
+Pada menu **Output Properties**, pastikan pilih dimana file akan disimpan terlebih dahulu. Lalu ubah File format ke ```FFmpeg Video``` dan buka tab **Encoding** lalu pilih Container ```MPEG-4```
 <img style={{ borderRadius: "0.5rem" }} src="/images/render_blender.png" />
