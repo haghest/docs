@@ -27,7 +27,7 @@
           },
           {
             "group": "Animasi",
-            "pages": ["animasi/anjing","animasi/kambing"]
+            "pages": ["karakter/anjing","karakter/kambing"]
           }
         ]
       }
@@ -43,7 +43,7 @@
         {
           "anchor": "Script",
           "href": "https://drive.google.com/drive/folders/1aeqodFB9sNcvigyIZOM8QRJ4_5drrL6P?usp=drive_link",
-          "icon": "file-type"
+          "icon": "scroll-text"
         },
         {
           "anchor": "Storyboard",
