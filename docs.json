@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Silih Kambing",
   "colors": {
     "primary": "#16A34A",
@@ -26,20 +26,8 @@
             "pages": ["pengaturan-teknis/render"]
           }
         ]
-      },
-      {
-        "tab": "API",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": ["api-reference/introduction"]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": ["api-reference/endpoint/get", "api-reference/endpoint/create", "api-reference/endpoint/delete", "api-reference/endpoint/webhook"]
-          }
-        ]
       }
+      
     ],
     "global": {
       "anchors": [
