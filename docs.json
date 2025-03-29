@@ -42,6 +42,11 @@
           "anchor": "Storyboard",
           "href": "https://drive.google.com/drive/folders/13l1MkuXOUQht3YFLIA2fbMsZYN2iHnOM?usp=drive_link",
           "icon": "gallery-thumbnails"
+        },
+        {
+          "anchor": "Tracking Progress",
+          "href": "https://docs.google.com/spreadsheets/d/1MaOkfYGrqbcdJk-xWtMzLw73dx_5ZYniKRqQvT-ZshI/edit?usp=sharing",
+          "icon": "list-todo"
         }
       ]
     }
