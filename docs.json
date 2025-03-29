@@ -16,7 +16,7 @@
          
           {
             "group": "Animasi",
-            "pages": ["animasi/render","animasi/addon","animasi/rigging-mulut"]
+            "pages": ["animasi/addon","animasi/rigging-mulut", "animasi/render"]
           },
           {
             "group": "Karakter",
