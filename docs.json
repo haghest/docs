@@ -51,6 +51,11 @@
       ]
     }
   },
+  "seo": {
+    "metatags": {
+        "og:image": "https://ik.imagekit.io/haga/ograph.png"
+    }
+},
   "logo": {
     "light": "/logo/silih light.svg",
     "dark": "/logo/silih dark.svg"
