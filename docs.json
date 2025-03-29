@@ -20,7 +20,7 @@
           },
           {
             "group": "Karakter",
-            "pages": ["karakter/anjing","karakter/kambing"]
+            "pages": ["karakter/anjing","karakter/kambing","karakter/environment"]
           }
         ]
       }
