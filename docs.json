@@ -9,11 +9,18 @@
   },
   "favicon": "/goat.png",
   "navigation": {
+   
+    
     "tabs": [
+      
       {
+        
         "tab": "Guides",
         "groups": [
-         
+          {
+            "group": "Get Started",
+            "pages": ["introduction"]
+          },
           {
             "group": "Animasi",
             "pages": ["animasi/addon","animasi/action-keys","animasi/rigging-mulut", "animasi/kamera","animasi/render"]
