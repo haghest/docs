@@ -16,7 +16,7 @@
          
           {
             "group": "Animasi",
-            "pages": ["animasi/addon","animasi/rigging-mulut", "animasi/kamera","animasi/render"]
+            "pages": ["animasi/addon","animasi/action-keys.mdx","animasi/rigging-mulut", "animasi/kamera","animasi/render"]
           },
           {
             "group": "Karakter",
